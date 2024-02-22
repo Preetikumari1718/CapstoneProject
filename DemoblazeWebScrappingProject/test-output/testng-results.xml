@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-21T15:55:31 IST" name="Default suite" finished-at="2024-02-21T15:56:15 IST" duration-ms="44606">
+    <groups>
+    </groups>
+    <test started-at="2024-02-21T15:55:31 IST" name="Default test" finished-at="2024-02-21T15:56:15 IST" duration-ms="44606">
+      <class name="basics.Practice2">
+        <test-method signature="iphone632gb()[pri:0, instance:basics.Practice2@478190fc]" started-at="2024-02-21T15:55:31 IST" name="iphone632gb" finished-at="2024-02-21T15:55:40 IST" duration-ms="8730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iphone632gb -->
+        <test-method signature="nexux6()[pri:0, instance:basics.Practice2@478190fc]" started-at="2024-02-21T15:55:40 IST" name="nexux6" finished-at="2024-02-21T15:55:47 IST" duration-ms="7720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nexux6 -->
+        <test-method signature="nokialumia1520()[pri:0, instance:basics.Practice2@478190fc]" started-at="2024-02-21T15:55:47 IST" name="nokialumia1520" finished-at="2024-02-21T15:55:56 IST" duration-ms="8769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nokialumia1520 -->
+        <test-method signature="samsungGalS6()[pri:0, instance:basics.Practice2@478190fc]" started-at="2024-02-21T15:55:56 IST" name="samsungGalS6" finished-at="2024-02-21T15:56:04 IST" duration-ms="7874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- samsungGalS6 -->
+        <test-method signature="samsunggal7()[pri:0, instance:basics.Practice2@478190fc]" started-at="2024-02-21T15:56:04 IST" name="samsunggal7" finished-at="2024-02-21T15:56:15 IST" duration-ms="11403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- samsunggal7 -->
+      </class> <!-- basics.Practice2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
